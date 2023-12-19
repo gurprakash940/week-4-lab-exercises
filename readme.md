@@ -43,7 +43,7 @@ Practice solving a merge conflict. Work in pairs and:
 
 1. Reproduce a merge conflict
 2. Solve it
-mergeConflict
+mergeConflicts
 
 ## Exercise 3
 
